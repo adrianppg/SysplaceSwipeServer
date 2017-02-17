@@ -1,0 +1,14 @@
+{
+  "name": "swipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "author": "Victoria Teufel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
